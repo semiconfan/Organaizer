@@ -1,0 +1,48 @@
+2024-04-25 17:51:14:SERVER:SignInMessage received
+2024-04-25 17:51:14:Message object:
+Is data updated:true
+Request type:SIGN_IN
+Response state:NO_SUCH_ENTRY_IN_DATABASE
+Login:4358783
+Password:rgergr
+ID:-1
+2024-04-25 17:51:26:SERVER:SignInMessage received
+2024-04-25 17:51:26:Message object:
+Is data updated:true
+Request type:SIGN_IN
+Response state:SUCCESS
+Login:MykytaInUa
+Password:1234567890
+ID:1
+2024-04-25 17:51:54:SERVER:Trying to launch a server...
+2024-04-25 17:51:54:SERVER:Server socket created successfully
+2024-04-25 17:51:54:DB_MANAGER:Connected to the database
+2024-04-25 17:51:54:SERVER:Server is launched
+2024-04-25 17:51:55:SERVER:Trying to launch a server...
+2024-04-25 17:51:55:SERVER:Server socket created successfully
+2024-04-25 17:51:56:DB_MANAGER:Connected to the database
+2024-04-25 17:51:56:SERVER:Server is launched
+2024-04-25 22:02:56:SERVER:Trying to launch a server...
+2024-04-25 22:02:56:SERVER:Server socket created successfully
+2024-04-25 22:02:57:DB_MANAGER:Connected to the database
+2024-04-25 22:02:57:SERVER:Server is launched
+2024-04-25 22:03:11:SERVER:SignInMessage received
+2024-04-25 22:03:11:Message object:
+Is data updated:true
+Request type:SIGN_IN
+Response state:NO_SUCH_ENTRY_IN_DATABASE
+Login:3256
+Password:473657
+ID:-1
+2024-04-25 22:03:24:SERVER:SignInMessage received
+2024-04-25 22:03:24:Message object:
+Is data updated:true
+Request type:SIGN_IN
+Response state:SUCCESS
+Login:MykytaInUa
+Password:1234567890
+ID:1
+2024-04-25 22:24:18:SERVER:Trying to launch a server...
+2024-04-25 22:24:18:SERVER:Server socket created successfully
+2024-04-25 22:24:19:DB_MANAGER:Connected to the database
+2024-04-25 22:24:19:SERVER:Server is launched
